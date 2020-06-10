@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2020-02-26, 10:26:12
+    Author     : PC
+*/
+body { 
+   
+    font-family: 'Sarabun', sans-serif;
+    padding-bottom: 70px;
+    
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Teko', sans-serif; font-family:'Arial', 'Halvetica', sans-serif;font-family: 'Great Vibes', cursive;  
+}
+.navbar-default,.nav,li,a,.glyphicon   { border: 0px; margin: 0px;  color:white;}
+.container{
+    width: 70%;
+    height: 70%;
+}
+#kontakt{
+    width: 50%;
+    height: 50%;
+}
+table{
+    position: relative;
+    top: 1%; left: 30%;
+    color: black;
+    font-size: 30px;
+}
+td{
+    width: 200px;
+    height: 20px;
+    border:1px;
+    border-style: solid;
+    border-color: black;
+}
+tr:nth-child(1){
+    background-color: grey;
+}
+tr:nth-child(2) {
+  background: grey;
+}
+tr:nth-child(3) {
+  background: white;
+  color: black;
+}
+tr:nth-child(5) {
+  background: white;
+  color: black;
+}
+tr:nth-child(4) {
+  background: gainsboro;
+  color: black;
+}
+tr:nth-child(6) {
+    color: black;
+  background: gainsboro;
+}
+#galleryv2 img{
+
+    
+}

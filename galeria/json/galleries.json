@@ -1,0 +1,28 @@
+{
+"galleries":[
+        {
+            "title":"Afryka",  "when":"2014-08-16", "thumbnailUrl":"galeria/2014/1.jpg" 
+        },
+        { 
+            "title":"Ameryka",  "when":"2015-09-16", "thumbnailUrl":"galeria/2015/1.jpg" 
+        },
+        { 
+            "title":"Azja",  "when":"2016-05-16", "thumbnailUrl":"galeria/2017/1.jpg" 
+        },
+        { 
+            "title":"Syberia",  "when":"2018-12-16", "thumbnailUrl":"galeria/2018/1.jpg" 
+        },
+        { 
+            "title":"Polska",  "when":"2019-03-16", "thumbnailUrl":"galeria/2019/1.jpg" 
+        },
+        { 
+            "title":"Australia",  "when":"2020-01-16", "thumbnailUrl":"galeria/2020/1.jpg" 
+        }
+
+],
+"sortList":[ 
+        { "label":"Alfabetycznie", "value":"title" },
+        { "label":"Chronologicznie", "value":"when" },
+        { "label":"Najnowsze", "value":"-when" }
+    ]
+}
